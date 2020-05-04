@@ -2,7 +2,7 @@
 
 def snake_it_up(string)
   if string[0] == "s"
-    10 { |i| "s" += string}
+    10 {|i| "s" += string}
   else
     string
   end
